@@ -1,8 +1,8 @@
 ---
-title: test
+title: Untitled
+draft: false
+tags:
 ---
-
-
 ## Test
 ### test 2
 
