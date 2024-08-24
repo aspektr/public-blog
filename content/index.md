@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: " Путеводитель"
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## 2 Основы Си
+### [[2.1 Пишем простую программу]]
+
+
+
