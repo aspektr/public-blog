@@ -15,6 +15,7 @@ title: " Путеводитель"
 
 ## Cheat Sheets
 ### [[Windows promt]]
+### [[Windows enumeration]]
 
 
 
