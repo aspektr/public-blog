@@ -13,6 +13,7 @@ title: " Путеводитель"
 
 ## Data
 
+### [[Cloud Data Platform.Референсы]]
 ### [[Ymatrix. Знакомство]]
 ### [[Ymatrix.Деплой]]
 ### [[YMatrix.TPC-DS]]

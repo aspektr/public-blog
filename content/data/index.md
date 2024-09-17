@@ -5,6 +5,8 @@ title: Data
 [[Ymatrix.Деплой]]
 [[YMatrix.TPC-DS]]
 
+[[Cloud Data Platform.Референсы]]
+
 
 
 
