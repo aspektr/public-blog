@@ -7,6 +7,10 @@ title: Data
 
 [[Cloud Data Platform.Референсы]]
 
+[[Готовим дата продукты]]
+
+
+
 
 
 
