@@ -22,7 +22,7 @@
 
 # Архитектура Searchkit
 
-![[Pasted image 20250127221854.png]]
+![[Pasted image 20250203203718.png]]
 
 # Как делать запросы к API Searchkit и ReactiveSearch
 
