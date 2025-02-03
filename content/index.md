@@ -10,6 +10,9 @@ title: " Путеводитель"
 ### [[MDM.Основные принципы]]
 ### [[Concept lineage tool]]
 
+## Микросервисы
+
+### [[SearchKit VS ReactiveSearch]]
 
 ## Data
 
