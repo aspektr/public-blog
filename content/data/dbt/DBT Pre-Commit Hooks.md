@@ -1,3 +1,5 @@
+[[Знакомство с dbt]]
+
 ![[Pasted image 20250203210259.png]]
 
 ![[Pasted image 20250203210347.png]]
