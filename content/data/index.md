@@ -13,6 +13,7 @@ title: Data
 
 [[DBT Pre-Commit Hooks]]]
 
+[[Составной ключ или суррогатный]]
 
 
 
