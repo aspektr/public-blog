@@ -15,6 +15,8 @@ title: Data
 
 [[DBT Pre-Commit Hooks]]]
 
+[[data mesh manager]]
+
 [[Тестирование процессов ETL]]
 
 [[Составной ключ или суррогатный]]
