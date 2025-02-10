@@ -16,7 +16,13 @@ title: Архитектура
 
 
 ## Colt
-[[Concept lineage tool]]
+[[Concept lineage tool]]\
+
+## Разное
+
+[[BRD vs FSD]]
+[[Матрица прослеживаемости требований - RTM]]
+[[SDLC]]
 
 
 
