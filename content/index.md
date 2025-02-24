@@ -59,6 +59,8 @@ title: " Путеводитель"
 
 ### [[HDFS vs On-Prem S3]]
 
+### [[Платформы для потоковой обработки данных]]
+
 
 ## DreamTeam
 
@@ -70,6 +72,14 @@ title: " Путеводитель"
 ### [[Вопросы для интервью Web-App Authentication & Authorization]]
 
 ### [[Вопросы для интервью по СУБД]]
+
+### [[Вопросы для интервью Data Lake и Форматы Файлов (Parquet, ORC, Iceberg, Hudi, Delta Lake)]]
+
+### [[Вопросы для интервью Apache Arrow]]
+
+### [[Вопросы для интервью Event Driven Architecture (EDA)]]
+
+### [[Вопросы для интервью Lambda и Kappa архитектуры]]
 
 
 ## 2 Основы Си
