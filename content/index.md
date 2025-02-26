@@ -4,6 +4,7 @@ title: " Путеводитель"
 ## Thinking Frameworks
 [[Основные идеи системного мышления по Левенчуку]]
 [[Thinking Frameworks]]
+[[ТРИЗ]]
 
 ## Management
 
