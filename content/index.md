@@ -1,6 +1,10 @@
 ---
 title: " Путеводитель"
 ---
+## Thinking Frameworks
+[[Основные идеи системного мышления по Левенчуку]]
+[[Thinking Frameworks]]
+
 ## Management
 
 [[Основы OMG Essence]]
@@ -78,6 +82,7 @@ title: " Путеводитель"
 ### DevOps
 [[You Build It, You Run It]]
 [[DORA-метрики]]
+[[chaos engineering]]
 
 ## 2 Основы Си
 [2.1 Пишем простую программу]]
