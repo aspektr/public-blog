@@ -8,6 +8,7 @@ title: Тех Интервью
 [[Вопросы для интервью Data Lake и Форматы Файлов (Parquet, ORC, Iceberg, Hudi, Delta Lake)]]
 [[Вопросы для интервью Event Driven Architecture (EDA)]]
 [[Вопросы для интервью Lambda и Kappa архитектуры]]
+[[Что такое Keycloak и для чего он используется]]
 
 
 

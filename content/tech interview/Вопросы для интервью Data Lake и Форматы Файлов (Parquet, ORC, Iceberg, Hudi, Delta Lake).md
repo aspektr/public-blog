@@ -32,15 +32,16 @@
 
 **Apache Iceberg**
 
-- Что такое Apache Iceberg и почему он был создан?
-- Как Iceberg обеспечивает поддержку ACID транзакций для Data Lake?
-- Что такое снимки таблиц в Iceberg и как это позволяет выполнять запросы во времени (time-travel queries)?
-- Как Iceberg справляется с эволюцией схем?
+- [[Что такое Apache Iceberg]] и почему он был создан?
+- [[Как Iceberg обеспечивает поддержку ACID транзакций для Data Lake]]?
+- [[Как проводить транзакции затрагивающие несколько таблиц в iceberg]]?
+- [[Что такое снимки таблиц в Iceberg и как это позволяет выполнять запросы во времени (time-travel queries)]]?
+- [[Как Iceberg справляется с эволюцией схем]]?
 
 **Apache Hudi**
 
-- Что такое Apache Hudi (Hadoop Upserts, Deletes и Incrementals)?
-- Как Hudi поддерживает инкрементальную обработку и апсерты?
+- [[Что такое Apache Hudi (Hadoop Upserts, Deletes и Incrementals)]]?
+- [[Как Hudi поддерживает инкрементальную обработку и апсерты]]?
 - Объясните типы таблиц Hudi: Copy-On-Write (COW) и Merge-On-Read (MOR).
 - В каких сценариях Apache Hudi особенно полезен?
 
