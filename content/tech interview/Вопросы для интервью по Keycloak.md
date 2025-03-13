@@ -21,7 +21,7 @@ Keycloak — это open-source решение для управления ид�
 1. Как работает процесс аутентификации в Keycloak?
 2. Какие протоколы аутентификации поддерживает Keycloak?
 3. Чем отличается OAuth 2.0 от OpenID Connect?
-4. Как настроить **Single Sign-On (SSO)** в Keycloak?
+4. [[Как настроить Single Sign-On (SSO) в Keycloak]]?
 5. Как настроить **многофакторную аутентификацию (MFA)** в Keycloak?
 6. Что такое **Authentication Flows** и как их настроить?
 7. Как настроить **OTP (One-Time Password)** в Keycloak?
@@ -32,7 +32,7 @@ Keycloak — это open-source решение для управления ид�
 
 ### **3️⃣ Работа с токенами (JWT, Refresh, Access)**
 
-1. Какие типы токенов использует Keycloak?
+1. [[Какие типы токенов использует Keycloak]]?
 2. Что содержит **Access Token** в Keycloak?
 3. В чём разница между **Access Token** и **ID Token**?
 4. Как настроить **Refresh Token** в Keycloak?
