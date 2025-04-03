@@ -31,6 +31,8 @@ title: Data
 
 [[DWH Audit Full Spec]]
 
+[[Что такое Data Mesh и как он помогает в организации данных]]
+
 
 
 
