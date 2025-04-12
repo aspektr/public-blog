@@ -33,6 +33,8 @@ title: Data
 
 [[Что такое Data Mesh и как он помогает в организации данных]]
 
+[[Архитектура Lakehouse от Google Cloud]]
+
 
 
 
