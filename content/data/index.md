@@ -43,6 +43,8 @@ title: Data
 
 [[10 ключевых техник репликации баз данных]]
 
+[[структура лендинга Data Governance Assessment App]]
+
 
 
 
